@@ -4,20 +4,19 @@ Bu proje, Python kullanarak temel bir lineer regresyon modelinin nasıl oluştur
 
 ## Medium Makalesi
 
-Bu proje, aynı zamanda **Medium** platformunda yayımlanan bir yazı ile ilişkilidir. Yazıda, bilgisayarların nasıl öğrendiği ve lineer regresyonun temel prensipleri detaylı bir şekilde ele alınmıştır. Eğer makine öğrenmesiyle ilgili daha fazla bilgi edinmek ve bu projede yer alan kavramların derinlemesine açıklamasını görmek isterseniz, **Medium** makalemize göz atabilirsiniz:
+Bu proje, aynı zamanda **Medium** platformunda yayımlanan bir yazı ile ilişkilidir. Yazıda, bilgisayarların nasıl öğrendiği ve lineer regresyonun temel prensipleri detaylı bir şekilde ele alınmıştır. Eğer makine öğrenmesiyle ilgili daha fazla bilgi edinmek ve bu projede yer alan kavramların derinlemesine açıklamasını görmek isterseniz, **Medium** yazıma göz atabilirsiniz:
 
-[Bilgisayarlar Nasıl Öğrenir? Lineer Regresyon ile Derinlemesine İnceleme](https://medium.com/your-medium-post-url)
+[Bilgisayarlar Nasıl Öğrenir? Lineer Regresyon ile Derinlemesine İnceleme](https://medium.com/@mevlutbasaran01/bilgisayarlar-nasıl-öğrenir-e2e732498e6a)
 
 Medium yazısı, bu projede yer alan kodların nasıl çalıştığını ve modelin nasıl öğrenme sürecinden geçtiğini anlatmaktadır. Ayrıca, kavramların arka planını ve teori kısmını detaylıca ele alarak, kodun mantığını anlamanızı sağlayacaktır.
 
-## Kullanım
+## Google Colab Üzerinden Projeyi Çalıştırma
 
-1. Bu repoyu klonlayın: 
-    ```sh
-    git clone <repo_url>
-    ```
-2. Gerekli paketleri yükleyin (Numpy, Matplotlib).
-3. `linear_regression_implementation.ipynb` dosyasını Jupyter Notebook'ta çalıştırın.
+Projeyi herhangi bir kurulum yapmadan tarayıcınız üzerinden hemen denemek ister misiniz? Google Colab ile aşağıdaki bağlantıya tıklayarak projemi kolayca çalıştırabilirsiniz:
+
+📊 **Google Colab Üzerinde Çalıştırmak İçin Tıklayın**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mevlt01001/linear-regression-implementation/blob/main/lineer_regresyon.ipynb)
+
+Bu bağlantıya tıklayarak, projenin tüm kodlarını, açıklamalarını ve grafiklerini içeren etkileşimli Jupyter Notebook'u Colab'de açabilir ve çalıştırabilirsiniz. Google Colab, Python ortamını kurmanıza gerek kalmadan projenin hemen çalıştırılabilmesini sağlar.
 
 ## İçerik
 
@@ -28,13 +27,10 @@ Medium yazısı, bu projede yer alan kodların nasıl çalıştığını ve mode
 
 ## Gereksinimler
 
-- Python 3.x
-- Numpy
-- Matplotlib
-- Jupyter Notebook
+Google Colab, Python ortamını ve gerekli paketleri (Numpy, Matplotlib) sizin yerinize hazırlar. Dolayısıyla herhangi bir ek kurulum yapmanıza gerek yoktur. Projeyi çalıştırmak için sadece tarayıcınız üzerinden Google Colab'e erişmeniz yeterlidir.
 
 ## Daha Fazla Bilgi ve Medium Makalesi
 
-Eğer bu projeyi daha detaylı öğrenmek istiyorsanız ve lineer regresyon üzerine yazılmış kapsamlı bir rehber arıyorsanız, Medium makalemize göz atabilirsiniz. Yazıda, teorik arka plan, kodun aşamaları ve modelin eğitimi adım adım anlatılmaktadır.
+Eğer bu projeyi daha detaylı öğrenmek istiyorsanız ve lineer regresyon üzerine yazılmış kapsamlı bir rehber arıyorsanız, Medium makaleme göz atabilirsiniz. Yazıda, teorik arka plan, kodun aşamaları ve modelin eğitimi adım adım anlatılmaktadır.
 
-[Medium Makalesi: Bilgisayarlar Nasıl Öğrenir?](https://medium.com/your-medium-post-url)
+[Medium Makalesi: Bilgisayarlar Nasıl Öğrenir?](https://medium.com/@mevlutbasaran01/bilgisayarlar-nasıl-öğrenir-e2e732498e6a)
